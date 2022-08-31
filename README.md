@@ -1,4 +1,3 @@
-# Bank Exam Candidates screening Using MS-Excel 
 
 Preliminary Exam Screening: MS Excel
 
